@@ -1,7 +1,7 @@
 #Important documents required
 
 1) docs related to land title
-  a)Personally verify the title deed of the land you are going to buy.
+  a)Personally verify the title deed of the land you are going to buy.(Patta verification)
   b)Confirm whether the title is ONLY in the name of the seller and has FULL rights to sell the land.
   c)INSIST ON SEEING THE ORIGINAL DEED DOCUMENT(may have been given to as loan guarantee)
   d)Get the document verfied by a lawyer
@@ -9,12 +9,88 @@
   f)Khata Extract and Khata Certificate.
   g)General Power of Attorney.
   h)Clear title of the land.
+  i)He must also verify whether the builder has obtained non agricultural permission for the land from the collector
+  j)He must also verify the development agreement between the owner of land and the builder.
+  k)He must ask for the copy of order under the Urban Land Ceiling Act. He must check the building plans sanctioned by the competent authority and the commencement certificate granted by Corporation / Nagar Palika.
+  l)
 
 2) Tax receipts and bills
   a)Ascertain if property taxes due to municipality and govt have been paid.
   b)Enquire to ascertain if any notices or requistions related to property have been issued and outstanding.
+  c)He must confirm with the seller the transfer fees, stamp duty and registration charges to be paid on purchase of the property as well as outgoings to be paid for the property
 
 3) Encumbrace Certificate
    a)confirm land does not have any legal dues, get encumbrance certificate from sub-registrar office where deed has been registered stating that land does not have any legal dues.(take certificate atleast for past 13 years)
 
 
+========================================================
+
+#Building approvals
+
+1)Does the building have the necessary approval (i.e layout,..) from the Panchayats/CMDA/DTCP/MMDA
+2)Does builder have completion certificate from the concerned authority.
+3)Check that the property belongs to which zone (Resi/Agri/Comm/Aquifier/Non-Resi/industrial/Special)
+4)Check the documents with a Banker for Loan Possibility (without patta & Approval loan is not possible)
+5)Check that the Layout has been alloted OSR Area ( temple, school, park, shop ) or else the owner has to pay 10% of the land value to the Government for approval. Only if the layout exceeds 3000sqm,32258sqft,74Cents 
+6)The Zone type and the Road Width defines how much area you can build, in case Aquafier Recharge Zone you can get only 0.8 FSI wherels in residential Zone you get 1.5 FSI
+7)SBI seems to have the most stringent legal policies. So if a project is rejected by SBI, one should show extra caution.
+8) This is fixed monthly outflow that most people don’t take into consideration while decision-making. Newer constructions (especially the ones with exotic “themes”) can have a pretty high Maintenance outflow. There are some in Mumbai, where it’s as high as 10,000-12,000 per month.
+9)without taking proper approval of the layout plans and as a result of which the possession could not be delivered to the prospective allottee
+10)
+
+
+==============================================================
+
+#Area of the flat
+1)In most of the new construction the super-buildup to carpet area ratio is barely 60-65%
+2)Check out the individual flat plan and match it with the actual size of the flat. Take extra care to match(measure) the size of balconies. This is where most of the builder do plan violation by increasing the size of balconies to get extra money. That’s because the expenditure on the balcony for construction is the least but the customer pays the price as part of the Super Built Up Area.
+3)Again measure the exact size(carpet area) of the flat. Most of the customer take the word of builder as sacrosanct when it comes to stated size of flat, but on calculation one can many times find a 2-5% shortfall. Remember that can mean a difference of 80k to 2 lac rupee difference in a 40 lac flat. Now you get it! right ?
+4)Check out your undivided share of land. Very simply put an unit of undivided share of land equals (total super built area of all flats in the complex)/(total size of land for the complex). So, to reach at the undivided share of land alloted for your flat it should be (your super built up area) * (the unit calculated above). Lot of times this is overstated by builder to attract customers. But remember, if there is a natural calamity like earthquake,fire etc and the building gets destroyed it’s only the undivided share of land which you really own. Don’t leave it for later. Builder which do not allot undivided share of land to buyers are a strict no-no (yes there are such builders).
+5)It should have the municipal-approved plan of the flat, carpet area with the area of the balconies shown separately, price of the property including the proportionate price of common areas and facilities shown separately.
+
+
+================================================================================
+
+#Purchase Agreement
+1) The Base Price
+2) Additional charges for preferential location,club membership.
+3)carpet area along with amenities.
+4)Applicable taxes levied by the govt.
+5)Occupation Certificate
+6)Mode of Payment
+7)Schedule for possession of the house.
+8)Earnest money retained by builder if buyer cancels the purchase.
+9)Penalty clause in case of delay by the builder
+10)Insurance of the building.
+
+
+==================================================
+
+#Due Process
+1) the registration of the purchase agreement since it is mandatory to do so for any documents relating to the transfer, sale or lease of a property, under Section 17 of the Indian Registration Act, 1908
+
+
+
+==================================================
+
+#Things to check out for
+1)Deficiency in service
+2)improper amenities
+3)ceiling leakage
+4)improper drainage system
+5)incomplete fire safety system
+6)low quality electrical wiring
+7)improper water provisions
+8)not provoding occupation certificate
+9)Change of land use, layout plan and structures without the approval of the allottee
+10)If the allottee is overburdened by the excessive hidden charges in the allottee builder agreement
+11) Enhanced external development charges
+12)Cancellation of booking/project
+13)
+
+
+==================================================
+
+#Finances
+1)If the buyer has secured a home loan for the flat, its repayment schedule is treated as pre-EMI till the buyer gets the property's possession. A buyer is entitled to tax rebate under sections 24 (b) and 80 (c) of the Income-Tax Act 1961 only after securing possession of the property and thus commencement of EMI. Till then, he gets no tax relief on the pre-EMI. Thus, the buyer has to pay the EMIs of the bank and also the rent for his current residence. The financial loss and mental agony that the buyer has to face cannot be compensated except by giving him the physical possession of his house.
+2)
