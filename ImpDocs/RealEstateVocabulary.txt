@@ -1,0 +1,118 @@
+Real Estate Vocabulary
+==========================
+
+a) Tax paid receipts for the property:- Once you have liked the flat and the budget suits you, some documents need to be verified. First among them is to get the latest tax paid receipts (issued by BBMP, i.e the sub registrar office in the locality) from the builder for the land he has constructed on, and also for the flat if its more than an year old.
+
+b) Encumberance certificate:- This document is issued by the sub registrar office in the same locality. This basically tells if the land/plot/flat is mortgaged for some loan, that is, if a loan has been bought on this property.
+
+c) Khata certificate:- There will be a computerized document with the sub registrar office which basically talks about the owner of the plot/land in case flat is yet to be built, or the flat itself, if you are purchasing second hand. In case of first purchase of the flat, get the khata certificate for the land the builder has bought. I am not sure about the exact nature of this document but just that its a registered computerized information available with the government about the plot. If khata has not been purchased, it can be done if the property is not in dispute and all other documents (like tax paid receipts, sale deeds etc) are in proper order.
+More information about khata here 
+
+d) Legal heirs document:- Again iam not 100% clear on this. But there are documents which tell whose name the property is in, from whom did they buy, who are the legal heirs of the builder, previous owner of the land from whom builder purchased etc.
+
+So first step before you book a flat and go for the sale agreement is that, you ask for
+- Latest tax paid receipts for the plot and the flat
+- Encumberance certificate for the plot and the flat
+- BBMP approval certificate for the building
+- Khata certificate for the land and the flat
+All other related documents like legal heir documents (just ask for xeroxes of all land documents with the builder).
+
+e) Sale agreement – First agreement to be signed on stamp paper between the buyer (you!) and the builder. The information it will give is: booking advance you are giving to the builder, which apartment you will be buying, what is the total area (like super built up, built up and carpet area), whats the final amount you will pay the builder & by when you should give the final amount.
+   Catch:
+ ================  
+1) If you are paying in black (explained later), then either the agreement will mention a lower value or no agreement will exist. In that case, only trust on builder can help!!!!!!!!!1
+2) Many builders will not give the sale agreement immediately. Yet again, either just dont take that flat or trust the builder!!!!!!!!!!!!!!!!!
+3) Booking advance will mostly be non-refundable. So be very careful. Take your time. Ask for a draft first, verify it and then only proceed. Once the booking advance is paid, you cannot do anything if things go wrong. Remember the sale agreement will mention it as non-refundable. So even a case in court will not help.
+4) Ensure that the sale agreement mentions that the amount to be given by the buyer includes VAT, service tax, common amenities charges, car parking etc. ONLY the registration cost will not get mentioned in the sale agreement. Apart from it, all other costs have to be mentioned. Thumb rule is that the total amount you incur = Total amount to the builder in sale agreement + registration charges to be given as DD to the sub registrar of that locality.
+
+f) Sale deed: This document is the almost the final document that basically states that you are the owner of the apartment. It should be certified by the sub registrar of that area. It basically states for what amount you are buying the apartment, its address. Its a conformation that the government is aware that the property is in your name and in its records is registered in your name. For the registration, you need to shell out quite a good percentage of total amount of your flat (say 7.85% of the total amount you are paying the builder for the flat).
+Catch:
+==============
+1) The government fixes guideline values so that you dont undervalue your property. So the rates may be like Rs. 2000/sqft for jp nagar etc. This means you cannot register the property at less than Rs. 2000/sqft and you have to shell out Rs. 157/sqft for the registration itself (payable by you, the buyer of property).
+2) What you pay to the builder may be more than the guideline value. This is called market price. Now say you are actually buying the flat for Rs. 3500/sqft, then this is the market value
+3) In Bangalore, its very common to see that buyers buy at market price but register at government guideline value. That is, you buy the apartment for Rs. 3500/sqft but registered amount in the sale deed shows Rs. 2000/sqft which is the government guideline value. Is it legal ——- I frankly dont know, but its common practice.
+
+g) Super built up, built up and carpet area:-
+Super builtup area is the area which includes carpet area + walls + common area (lift etc).
+Builtup area includes carpet area + walls (generally 85% of super built up area)
+Carpet Area is the exact area that lies between the walls (generally 90% of builtup area)
+Car parking is seperate and is generally not included with the superbuiltup area.
+E.g : Super built up for 3 bhk flat can be 1700sqft
+Built up for the 3 bhk flat can be 1445 sqft (85% of super builtup)
+
+h) Black Vs White money:-
+This is also very common, certainly illegal practice in real estate in many cities in india including bangalore. My guess is that 90% of the real estate dealings deal with black money (very sorry state of affair, but remember the poor politicians should somehow earn crores of money before the next elections, what is the easier way than money in black).
+Basically black money means money not being part of any receipt to avoid payment of tax.
+So suppose if your flat costs Rs. 50 lakhs, and you are showing only the guideline value in the sale deed, say 16 lakhs. Then there are good chances that you will pay Rs. 34 lakhs as black (i.e without a receipt, or without mentioning in sale agreement). This money is unaccounted as far government is concerned (i.e no tax will be paid on the rest of the amount, it is the builder’s black money).
+So while enquiring about rates and before finalising your sale agreement and giving the booking amount, clearly ask if the deal is black/white. If white, aal izz well.. If black, your risk.
+
+Details while asking for the price:
+There are lot of ways to deceive people about the actual cost that will be finally borne by the buyer.
+Generally the per square foot cost which the builder says should include all charges i.e service tax, VAT, common amenities cost etc. Just confirm that the rate he tells covers all this (This will clearly be specified in the sale agreement). The only other cost you have to pay is the registration charges to be given as DD to sub registrar of the locality.
+
+
+Summary is:
+1) Get the xeroxes of tax paid receipts, encumbarence certificate, khata and related land documents, get it verified by lawyer and go ahead only if he gives a legal opinion that is favourable.
+2) Get the draft of sale agreement and the sale deed and get it verified by lawyer.
+3) Then give the booking amount and take the sale agreement from builder on stamp paper.
+4) Give the final amount within the date mentioned in sale agreement.
+5) Get the sale deed registered from the sub registrar in the locality.
+6) Get the khata for the property.
+
+What is Khata?
+
+It literally means an account, this Khata is an account of a person who has property in the city. It is an account of assessment of property owners within BBMP (Bruhat Bengaluru Mahanagara Palike) jurisdiction. Khata is important when you apply for any license of building or for trade, applying for loan from any banks or financial institution.It consists all the details of property like name of owner, size of buildings, location of property and all other details that helps to file property tax.
+
+There are two things in a Khata:
+a) Khata Certificate
+b) Khata Extract.
+
+a) Khata Certificate
+A BBMP Khata certificate is required for two major purposes:
+1. For registration of a new property,
+2. For transfer of any property.For applying khata certificate, the owner of property has to give letter of requisition along with details and receipts of tax paid (latest) to Assistant officer for the sub-division or range. The fee for certificate is RS.25/- per property.Khata Certificate is obtained for any new registration after paying the tax. The certificate is issued saying that a particular property No ‘XYZ’ stands in the name of person A. This certificate is required to apply for water connection, electricity connection, trade license and building license. The Khata certificate is given only to the owner of the property or to his family members. No one else can take it on his behalf. It takes maximum of One week to get the certificate. One can also get it instantly in some citizen service centers (details: http://www.bmponline.org/citizen-svc-centersl.shtml)
+(When a transaction takes place both the seller and the buyer have to inform the BBMP within three months of the transaction. In case of death of either party, within one year.)
+
+b) Khata Extract
+
+Khata Extract is getting details from the assessment register. The extract is required to get trade license, or to buy a particular property. It has the details of the property like the name, size of the property, use of the property (commercial purpose, residential), annual value, when assessed last.For getting a khata extract, owner of property has to give letter of requisition with property location and details. The fee is Rs.100/- per extract for a period of 5 years of the property.
+Eligible for obtaining Khata
+All property owners/holders who hold property within the BBMP jurisdiction are eligible to obtain a Khata. Obtaining a khata does not confer ownership of property but confers the person who liable to pay property tax. Property tax can be paid by property owners/holders who may or may not have Khata but it is important when you apply for any license of building or for trade, applying for loan from any banks.
+Document required for Khata registration
+
+For applying Khata registration, you needed to enclose following documents along with registration form.
+-----------------------------------------------------------------------------------------------------------
+1. Documents required for property of land type- Revenue Pockets / BDA Reconveyed areas / Gramathana :
+
+i. Title deed (Reconveyed documents from BDA in case of BDA Reconveyed areas)
+ii. Tax paid receipts and Khatha details
+iii. Sketch of your property showing its boundaries and location of site
+iv. Improvement Charges
+v. National Saving Certificates for Rs.200/-
+vi. Encumbrance certificate for vacant sites
+vii. Flow chart of title
+2. Documents required for property of land type- BDA / KHB Layout
+i. Title deed or Possession certificate
+ii. National Saving Certificates for Rs.200/-
+iii. Encumbrance certificate for vacant sites
+iv. Flow chart of title.
+
+What is Khata Transfer?
+Khata transfer is required when the ownership of property is transferred from one person to another for any reason like sale of property, gift, will or in case of death of property owner and so on. The application for Khata transfer is same that for registration and the documents needed along with application are following:
+1. Title deed
+2. Tax paid receipts and Khata details
+3. Paid up improvement charges receipt
+4. National Saving Certificates for Rs.200/-
+5. Death certificate of owner (in case of application due to death own property owner)
+6. Affidavit declaring the applicants is legal heirs of the deceased khatedar.
+
+Procedure for Registering, transferring and modifying Khata
+-----------------------------------------------------------------
+Obtain Notarized copy of your sale deed: There are number of notaries in Bangalore where you can get your work done at reasonable fees and the entire sales deed is notarized for charge of Rs 80-100. Normally agents charge good commission per page and charge for get your work done rises to Rs 200 and above.
+Encumbrance certificate (EC): Get EC for your property and one has to carry copy of sales deed for getting EC. Normally EC is handled within 7 working days.
+Application for Khata: Obtain Khata registration form for applying for Khata. Application is same applying for Registration, Transfer and modification of Khata. It is available either online or at any BBMP office. Application costs Rs10.
+Enclosure of documents: While applying for Khata, enclose the essential documents and fill up the necessary information in the application form. Submit the filled registration form at BBMP office and get sealed acknowledgement for the same. Acknowledgement is one of the sheets in the application.
+Check the status of your application: Visit once in 15 days and check the status of your application. Remember any documents demanded by the BBMP office, over and above those listed above, and validated by the RTI is illegal to ask and just a means to harass you and tire you down.
+Seek Information: After 2 months if there is still no activity then file the RTI to seek information on status of khata registration.
+Assessment of Property by Officials: The BBMP Revenue Incharge and Assistant Revenue Officer personally visits the property to assess the property. Please note that if the property is assessed as commercial read as ‘Rented Out’ the property tax is twice the normal property tax.
+Khata Registration fee: After the property is assessed BBMP formally communicates this mentioning the property dimensions (in sq feet), its value as per BBMP assessment and the tax liability thereon. One is also provided with a notice mentioning the same and informing you to pay the Khata Registration fee – 2% of the property values as Khata Registration fee (this is 2% of the value mentioned in the Sale deed). Once you pay the Khata Registration fee, in about 1-2 weeks, one receives the notice for paying the pending property tax. Without this the Khata Extract will not be issued in your name. But if you have reached this point it means Khata has been technically registered on your name.

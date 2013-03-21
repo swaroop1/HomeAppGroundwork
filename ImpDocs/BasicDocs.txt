@@ -94,3 +94,37 @@
 #Finances
 1)If the buyer has secured a home loan for the flat, its repayment schedule is treated as pre-EMI till the buyer gets the property's possession. A buyer is entitled to tax rebate under sections 24 (b) and 80 (c) of the Income-Tax Act 1961 only after securing possession of the property and thus commencement of EMI. Till then, he gets no tax relief on the pre-EMI. Thus, the buyer has to pay the EMIs of the bank and also the rent for his current residence. The financial loss and mental agony that the buyer has to face cannot be compensated except by giving him the physical possession of his house.
 2)
+
+
+==================================================
+
+Glossary
+
+1) Covered Area : This is the Actual Area under the roof.
+2) Carpet Area  : Carpet Area is the area where we can spread a carpet, means area calculated from inner wall to wall distance  inside the house.
+3)Built-up Area : Carpet Area + Area of walls and ducts+ 1/2 the Area of terrace. (Usually 10% more than the carpet area).
+A terrace is considered as half the actual area for calculating built up area.
+4)Super Built Up Area : his is built up area + area occupied by common amenities like lifts, corridors, awnings, club house, stairs. Super built up is usually around 25% more than Built up area. This is also called as Salable Area.
+
+====
+CARPET AREA :
+ Total carpet area : total carpet areas of all rooms,varandas, passages, area inside the main door (if not included in living room dimension), balconies
+  FSI is applicable to carpet area.
+  Depending upon builder practice, carpet area may be 50% to 70% of of saleable area
+  ratio of carpet area to the saleable area, higher the ratio, better it is.
+  The example below will illustrate trick used by builders/developers, when they say you can find carpet area by applying loading factor on the saleable area.
+Saleable Area: 1200 sq ft
+Loading Factor: 25% (or 1.25)
+
+Wrong Method (favours seller):
+Carpet Area: 1200 x (100-25)% = 1200 x 75% = 900 sq ft
+If you apply 1.25 or 25% loading, saleable area should be 900 sq ft + 900 x 25% = 1125 sq ft
+As you can see under this method builder is charging you for 1200 - 1125 = 75 sq ft more
+
+Right Method (favours buyer):
+Find carpet area first by measuring actual dimensions, and then apply loading factor
+Saleable area = 900 sq ft + 900 x 25% = 1125 sq ft
+
+TERRACE :
+
+
